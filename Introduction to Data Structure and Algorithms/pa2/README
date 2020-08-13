@@ -1,0 +1,29 @@
+
+#------------------------------------------------------------------------------
+# README for CSE 101 Programming Assignment 2
+#
+# Name:       Juan Lee
+# CruzID:      jlee543
+# Course:       CSE 101 Spring 2020 PA2
+# File name:     README
+# File Description: Table of contents for PA2
+#
+#------------------------------------------------------------------------------
+
+Submitted Files:
+
+  List.h              Holds the header files for List ADT
+  List.c              Holds the function prototypes for List ADT
+  BigInteger.h        Holds the header files for BigInteger ADT
+  BigInteger.c        Holds the function prototypes for BigInteger ADT
+  ListTest.c          Test cases for List ADT
+  BigIntegerTest.c    Tests cases for BigInteger ADT
+  Arithmetic.c        Computes BigInteger operations and
+                      writes it to a outfile.
+  Makefile            Set of tasks to be executed and compiles files to produce
+                      an executable.
+  README              Table of Contents for the files submitted
+  
+  Notes:
+  Please let me know if I am missing a special formatting for any files that
+  I've submitted. Thanks.

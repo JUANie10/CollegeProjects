@@ -1,0 +1,26 @@
+#------------------------------------------------------------------------------
+# README for CSE 101 Programming Assignment 7
+#
+# Name:       Juan Lee
+# CruzID:      jlee543
+# Course:       CSE 101 Spring 2020 PA7
+# File name:     README
+# File Description: Table of contents for PA7
+#
+#------------------------------------------------------------------------------
+
+Submitted Files:
+
+  List.h              Holds the header files for List ADT
+  List.cpp            Holds the function prototypes for List ADT
+  ListTest.cpp        Tests cases for List ADT
+  Shuffle.cpp         Makes a List from 0 to n (entered number) and for each
+                      iteration of the list, std prints the number of shuffles
+                      needed to return to the original list
+  Makefile            Set of tasks to be executed and compiles files to produce
+                      an executable.
+  README              Table of Contents for the files submitted
+  
+  Notes:
+  Please let me know if I am missing a special formatting for any files that
+  I've submitted. Thanks.

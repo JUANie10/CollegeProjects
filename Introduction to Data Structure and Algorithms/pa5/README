@@ -1,0 +1,25 @@
+#------------------------------------------------------------------------------
+# README for CSE 101 Programming Assignment 5
+#
+# Name:       Juan Lee
+# CruzID:      jlee543
+# Course:       CSE 101 Spring 2020 PA5
+# File name:     README
+# File Description: Table of contens for PA5
+#
+#------------------------------------------------------------------------------
+
+Submitted Files:
+
+  Dictionary.h        Holds the header files for Dictionary ADT
+  Dictionary.c        Holds the function prototypes for Dictionary ADT
+  DictionaryTest.c    Tests cases for Dictionary ADT
+  Lex.c               Sorts the contents of an infile in alphabetical order and
+                      writes it to an outfile using the dictionary ADT
+  Makefile            Set of tasks to be executed and compiles files to produce
+                      an executable.
+  README              Table of Contents for the files submitted
+  
+  Notes:
+  Please let me know if I am missing a special formatting for any files that
+  I've submitted. Thanks.

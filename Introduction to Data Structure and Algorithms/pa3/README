@@ -1,0 +1,28 @@
+
+#------------------------------------------------------------------------------
+# README for CSE 101 Programming Assignment 3
+#
+# Name:             Juan Lee
+# CruzID:           jlee543
+# Course:           CSE 101 Spring 2020 PA3
+# File name:        README
+# File Description: Table of contents for PA3
+#
+#------------------------------------------------------------------------------
+
+Submitted Files:
+
+  List.h              Holds the header files for List ADT
+  List.c              Holds the function prototypes for List ADT
+  Graph.h             Holds the header files for Graph ADT
+  Graph.c             Holds the function prototypes for Graph ADT
+  GraphTest.c         Test cases for Graph ADT
+  FindPath.c          Finds the shortest paths and prints to the outfile and
+                      prints the adjancency graph
+  Makefile            Set of tasks to be executed and compiles files to produce
+                      an executable.
+  README              Table of Contents for the files submitted
+  
+  Notes:
+  Please let me know if I am missing a special formatting for any files that
+  I've submitted. Thanks.

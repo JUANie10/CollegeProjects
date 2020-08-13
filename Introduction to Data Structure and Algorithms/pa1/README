@@ -1,0 +1,26 @@
+
+#------------------------------------------------------------------------------
+# README for CSE 101 Programming Assignment 1
+#
+# Name:       Juan Lee
+# CruzID:      jlee543
+# Course:       CSE 101 Spring 2020 PA1
+# File name:     README
+# File Description: Table of contens for PA1
+#
+#------------------------------------------------------------------------------
+
+Submitted Files:
+
+  List.h              Holds the header files for List ADT
+  List.c              Holds the function prototypes for List ADT
+  ListClient.c        Tests cases for List ADT
+  Lex.c               Sorts the contents of an infile in alphabetical order and
+                      writes it inot a outfile.
+  Makefile            Set of tasks to be executed and compiles files to produce
+                      an executable.
+  README              Table of Contents for the files submitted
+  
+  Notes:
+  Please let me know if I am missing a special formatting for any files that
+  I've submitted. Thanks.
