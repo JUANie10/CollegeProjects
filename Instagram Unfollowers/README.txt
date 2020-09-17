@@ -1,8 +1,8 @@
 Instagram unfollowers (Python)
 
-To run this script, open up the python script and type your username and password in the boxed section. Make sure to install selenium and chrome webdriver Run and enjoy :)
+To run this script, open up the python script and type your username and password in the boxed section. Make sure to install selenium and chrome webdriver. Run and enjoy :)
 
-This script will output a list of usernames of people that you follow that don't follow you back and also output the number of people. 
+This script will output a list of usernames of people that you follow that don't follow you back and also outputs the number of people. 
 
 Pro Tips
 
