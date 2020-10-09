@@ -1,5 +1,4 @@
-# Projects
-College Coursework Projects
+# College Coursework Projects
 
 Coursed Taken and Listed:
 
